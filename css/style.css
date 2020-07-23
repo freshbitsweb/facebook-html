@@ -16,7 +16,7 @@
     font-size: 13px;
 }
 
-.img {
+.image {
     border-radius: 50%;
     height: 50px;
 }
@@ -39,8 +39,6 @@
     font-size: 12px;
     margin-top: 9px;
 }
-
-
 
 .form-control-sm {
     height: calc(1.5em + .5rem + -4px) !important;
@@ -65,11 +63,11 @@
 
 .brand-name {
     margin-top: 25px;
-    margin-left: 55px;
+    margin-left: -8px;
     font-weight: 850 !important;
 }
 
-.real-img {
+.real-image {
     border-radius: 50%;
     width: 50px;
     height: 50px;
@@ -80,11 +78,11 @@
     height: 230px;
 }
 
-.card-img {
+.card-image {
     height: 160px;
 }
 
-.card-img-full {
+.card-image-height {
     height: 230px;
 }
 
